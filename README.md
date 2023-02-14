@@ -1,10 +1,28 @@
 # github_repo_viewer
 
-A new Flutter project.
+A new Flutter project to browse GitHub repos.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To start with this project, you need to create the `.env` file from the `.env.example` file and set the values of the environment variables.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `flutter run`
+
+Runs the app in the debug mode.
+
+### `flutter run --profile`
+
+Runs the app in the profile mode.
+
+### `flutter run --release`
+
+Runs the app in the release mode.
+
+## Learn More
 
 A few resources to get you started if this is your first Flutter project:
 
